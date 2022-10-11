@@ -1,0 +1,17 @@
+outlook	temp	humidity	windy	
+sunny	75	70	true	yes
+sunny	80	90	true	no
+sunny	85	85	false	no
+sunny	72	95	false	no
+sunny	69	70	false	yes
+N	72	90	true	yes
+overcast	83	78	false	yes
+overcast	64	65	true	yes
+overcast	81	75	false	yes
+rain	71	80	true	no
+rain	65	70	true	no
+rain	75	80	false	yes
+rain	68	80	false	yes
+rain	70	96	false	yes
+overcast	70	96	false	yes
+sunny	82	88	false	yes
